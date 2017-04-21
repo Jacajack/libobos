@@ -2,7 +2,7 @@
 #include <inttypes.h>
 #include <stdlib.h>
 #include <string.h>
-#include "../include/obos.h"
+#include "../include/obos/obos.h"
 
 static uint8_t bmpAlloc( BMP2 *bmp, uint16_t w, uint16_t h )
 {
